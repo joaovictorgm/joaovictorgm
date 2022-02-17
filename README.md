@@ -1,4 +1,4 @@
-Ola, eu sou João Victor 👍✌   
+Ola!Eu sou João Victor   
 
 
 - 🔭 Estou a procura da minha primeira vaga na areá de tecnologia
