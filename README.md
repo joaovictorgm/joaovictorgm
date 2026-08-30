@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 ### ⚔️ Stack de Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,nodejs,postgres,docker,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,git,vscode&theme=dark" />
 </div>
 
 <br>
