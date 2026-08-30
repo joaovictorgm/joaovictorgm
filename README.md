@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorgm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
 </div>
 
 <br>
