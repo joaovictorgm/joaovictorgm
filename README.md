@@ -38,15 +38,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 
 ### 📊 Estatísticas GitHub
 
+### 📊 Estatísticas GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorgm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorgm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorgm&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=joaovictorgm&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" />
 </div>
 
 ---
