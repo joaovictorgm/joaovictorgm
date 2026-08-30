@@ -12,7 +12,7 @@ Ola!Eu sou João Victor
   <br><br>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+[Seu+Nome]+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Foco+em+Seguran%C3%A7a+%26+Backend;Spring+Boot+%7C+React+%7C+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+JoãoVictor+%F0%9F%91%8B;Estudante+de+Análise+em+Desenvolvimento+de+Sistemas;Foco+em+Spring+Boot+%7C+React+%7C+ADS" alt="Typing SVG" />
 
 </div>
 
