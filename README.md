@@ -42,12 +42,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=joaovictorgm&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictorgm&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=00FF9C&area=true&hide_border=true" alt="Activity Graph" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovictorgm/joaovictorgm/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/joaovictorgm/joaovictorgm/output/github-contribution-grid-snake.svg" />
-  </picture>
+ 
 </div>
 
 <div align="center">
