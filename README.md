@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Banner (cole a URL da imagem dark fantasy que geramos) -->
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/banner.png" alt="Plague Doctor Banner" width="100%"/>
+  <img src="[https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/banner.png](https://assets.grok.com/users/a43e1495-616c-4e93-bea8-5b49b8afff93/generated/8debe7e9-d0b8-4c0e-95e0-d7cb86664872/image.jpg)" alt="P" width="100%"/>
 
   <br><br>
 
