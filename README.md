@@ -1,6 +1,4 @@
-Ola!Eu sou João Victor   
 
-- 🌱 Atualmente estou  cursando Análise e desenvolvimento de sistemas.
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -49,7 +47,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorgm&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -61,7 +59,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square&color=00FF9C" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=joaovictorgm&style=flat-square&color=00FF9C" alt="Profile views"/>
   <br><br>
   <i>“Código seguro é a melhor proteção.”</i>
 </div>
