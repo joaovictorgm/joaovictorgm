@@ -46,7 +46,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaovictorgm&style=flat-square&color=00FF9C" alt="Profile views"/>
+  
   <br><br>
   <i>“Código seguro é a melhor proteção.”</i>
 </div>
