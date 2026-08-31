@@ -45,6 +45,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
  
 </div>
 
+### 🐍 Contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joaovictorgm/joaovictorgm/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 <div align="center">
   
   <br><br>
